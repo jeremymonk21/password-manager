@@ -19,6 +19,8 @@ This project involved the development of a secure and user-friendly GUI-based Pa
 
 - Utilized the **`cryptography.fernet`** library to encrypt and decrypt passwords securely.
 - Enhanced the security of stored passwords to safeguard sensitive data.
+- ![image](https://github.com/jeremymonk21/password-manager/assets/153461563/8c7bcfe0-722f-436e-9f21-2e2240369aaa)
+
 
 ### **3. Data Persistence:**
 
@@ -36,6 +38,8 @@ This project involved the development of a secure and user-friendly GUI-based Pa
 - **List Accounts:**
     - Provided an option to list all stored accounts for user convenience.
     - Displayed a message box containing the list of accounts.
+    - ![image](https://github.com/jeremymonk21/password-manager/assets/153461563/7cf60dc3-846a-4ba4-bc59-27eef0e33a77)
+
 
 ### **5. Error Handling and Security Measures:**
 
