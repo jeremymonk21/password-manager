@@ -12,6 +12,8 @@ This project involved the development of a secure and user-friendly GUI-based Pa
 
 - Implemented a clean and intuitive graphical user interface (GUI) using Tkinter.
 - Organized input fields for service, username, and password for easy interaction.
+-![image](https://github.com/jeremymonk21/password-manager/assets/153461563/a692e7ea-564e-45ae-aa40-b77c7ac23290)
+
 
 ### **2. Encryption for Passwords:**
 
